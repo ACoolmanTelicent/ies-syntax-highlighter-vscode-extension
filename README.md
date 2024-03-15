@@ -28,7 +28,7 @@ Features:
 
 ## Install
 
-1. Download latest [/releases](/releases)
+1. Download latest [/releases](./releases)
 
 In VSCode:
 
